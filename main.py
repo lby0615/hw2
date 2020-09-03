@@ -15,6 +15,8 @@ elif grade1 == "B":
   point1 = 3.0
 elif grade1 == "B-":
   point1 = 2.67
+elif grade1 == "C+":
+  point1 = 2.33
 elif grade1 == "C":
   point1 = 2.0
 elif grade1 == "D":
@@ -38,6 +40,8 @@ elif grade2 == "B":
   point2 = 3.0
 elif grade2 == "B-":
   point2 = 2.67
+elif grade2 == "C+":
+  point2 = 2.33
 elif grade2 == "C":
   point2 = 2.0
 elif grade2 == "D":
@@ -61,6 +65,8 @@ elif grade3 == "B":
   point3 = 3.0
 elif grade3 == "B-":
   point3 = 2.67
+elif grade3 == "C+":
+  point3 = 2.33
 elif grade3 == "C":
   point3 = 2.0
 elif grade3 == "D":
