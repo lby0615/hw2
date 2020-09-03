@@ -65,7 +65,7 @@ elif grade3 == "F":
 print(f"Grade point for course 3 is: {point3}")
 
 GPA = ((point1*credit1)+(point2*credit2)+(point3*credit3))/(credit1+credit2+credit3)
-print(f"Your GPA is {GPA}")
+print(f"Your GPA is: {GPA}")
 
 
 
