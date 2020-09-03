@@ -23,7 +23,7 @@ elif grade1 == "D":
   point1 = 0.0
 elif grade1 == "F":
   point1 = 0.0
-else
+else:
   point1 = 0.0
 
 print(f"Grade point for course 1 is: {point1}")
@@ -48,7 +48,7 @@ elif grade2 == "D":
   point2 = 0.0
 elif grade2 == "F":
   point2 = 0.0
-else
+else:
   point2 = 0.0
 
 print(f"Grade point for course 2 is: {point2}")
@@ -74,7 +74,7 @@ elif grade3 == "D":
 elif grade3 == "F":
   point3 = 0.0
 print(f"Grade point for course 3 is: {point3}")
-else
+else:
   point3 = 0.0
 
 GPA = ((point1*credit1)+(point2*credit2)+(point3*credit3))/(credit1+credit2+credit3)
